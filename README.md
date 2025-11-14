@@ -17,7 +17,7 @@ Insurance companies struggle with:
 - **Key Features**: Policy type, region, age groups, marital status, claims frequency, claim amounts
 - **Demographic Data**: Age brackets, marital status, geographic location (Urban/Suburban/Rural)
 - **Claims Data**: Claims frequency, severity levels (Low/Medium/High), adjustment amounts
-- 
+   
 ## Tools & Technology
 - **Data Analysis**: SQL, Python (Pandas)
 - **Visualization**: Power BI
