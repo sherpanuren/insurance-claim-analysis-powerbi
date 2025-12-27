@@ -2,6 +2,8 @@
 
 An interactive dashboard analyzing insurance claims data to identify high-risk policyholders, optimize pricing strategies, and improve profitability through data-driven risk segmentation.
 
+![Screenshot](Image/claim-analysis-powerbi.png)
+
 ## Overview
 This project implements a comprehensive risk analysis solution for insurance claims data, providing actionable insights into policyholder behavior, claims patterns, and geographic risk concentrations. The dashboard enables data-driven decision making for underwriters, claims managers, and business strategists.
 
@@ -130,8 +132,6 @@ The interactive Power BI dashboard includes:
 
 ### **Conclusion**
 This dashboard demonstrates how data analytics can transform raw insurance claims data into actionable business intelligence. By identifying clear risk patterns and demographic correlations, insurance companies can make informed decisions about pricing, underwriting, and claims management. The solution provides a scalable framework for ongoing risk monitoring and strategic planning in the insurance industry.
-
-![Screenshot](Image/claim-analysis-powerbi.png)
 
 The project successfully addresses the core challenges of risk segmentation and profitability optimization while providing an intuitive interface for business users to explore data and derive insights.
 
